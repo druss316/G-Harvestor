@@ -1,18 +1,11 @@
 "Artisan",1
-"Entertainer",0
-"Medic",1
-"Scout",0
-"Architect",1
-"Armorsmith",1
-"Bio-Engineer",1
-"Chef",1
-"Combat Medic",1
-"Doctor",1
-"Droid Engineer",1
-"Musician",0
-"Ranger",0
+"Structure",1
 "Shipwright",1
-"Smuggler",1
-"Tailor",0
+"Armorsmith",1
 "Weaponsmith",1
-"Jedi",1
+"Droid Engineer",1
+"Chef",1
+"Tailor",1
+"jedi",1
+"smuggler",1
+"Entertainer",1
